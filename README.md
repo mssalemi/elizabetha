@@ -6,3 +6,4 @@ Start Template from Repo: https://github.com/polidario/Elizabeth
 
 `shopify theme dev --store=theme-testing-medxman.myshopify.com`
 # elizabetha
+# dawn-med
